@@ -1,5 +1,6 @@
 # vue-bookstore
 A mini Vue Bookstore Demo
+http://test.nodejs8.com.cn/bookstore/index.html
 
 ## 安装
 #### 1、cd app && yarn install
